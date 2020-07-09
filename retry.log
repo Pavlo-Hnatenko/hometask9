@@ -1,0 +1,46 @@
+2020-07-09 20:12:22 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:12:22 INFO  Retry:26 - attempts left: 8
+2020-07-09 20:12:22 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:12:22 INFO  Retry:26 - attempts left: 7
+2020-07-09 20:12:22 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:12:22 INFO  Retry:26 - attempts left: 6
+2020-07-09 20:12:22 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:12:22 INFO  Retry:26 - attempts left: 5
+2020-07-09 20:12:22 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:12:22 INFO  Retry:26 - attempts left: 4
+Our program throws all expected exception, but we still have attempts! It's success!
+2020-07-09 20:13:24 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:13:24 INFO  Retry:26 - attempts left: 2
+2020-07-09 20:13:24 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:13:24 INFO  Retry:26 - attempts left: 1
+2020-07-09 20:13:24 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:13:24 ERROR Retry:31 - We ran out of attempts, we were unable to execute the program:(
+2020-07-09 20:14:43 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:14:43 INFO  Retry:26 - attempts left: 2
+2020-07-09 20:14:43 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:14:43 INFO  Retry:26 - attempts left: 1
+2020-07-09 20:14:43 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:14:43 ERROR Retry:31 - We ran out of attempts, we were unable to execute the program:(
+2020-07-09 20:15:25 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:15:25 INFO  Retry:26 - attempts left: 4
+2020-07-09 20:15:25 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:15:25 INFO  Retry:26 - attempts left: 3
+2020-07-09 20:15:25 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:15:25 INFO  Retry:26 - attempts left: 2
+2020-07-09 20:15:26 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:15:26 INFO  Retry:26 - attempts left: 1
+2020-07-09 20:15:26 INFO  Retry:22 - Now we are throwing exception
+2020-07-09 20:15:26 ERROR Retry:32 - We ran out of attempts, we were unable to execute the program:(
+2020-07-09 20:16:22 INFO  Retry:21 - Now we are throwing exception
+2020-07-09 20:16:22 INFO  Retry:25 - Attempts that we have: 9
+2020-07-09 20:16:23 INFO  Retry:21 - Now we are throwing exception
+2020-07-09 20:16:23 INFO  Retry:25 - Attempts that we have: 8
+2020-07-09 20:16:23 INFO  Retry:21 - Now we are throwing exception
+2020-07-09 20:16:23 INFO  Retry:25 - Attempts that we have: 7
+2020-07-09 20:16:23 INFO  Retry:21 - Now we are throwing exception
+2020-07-09 20:16:23 INFO  Retry:25 - Attempts that we have: 6
+2020-07-09 20:16:23 INFO  Retry:21 - Now we are throwing exception
+2020-07-09 20:16:23 INFO  Retry:25 - Attempts that we have: 5
+2020-07-09 20:16:23 INFO  Retry:21 - Now we are throwing exception
+2020-07-09 20:16:23 INFO  Retry:25 - Attempts that we have: 4
+2020-07-09 20:16:23 INFO  Retry:36 - Our program throws all expected exception, but we still have attempts! It's success!
